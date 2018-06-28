@@ -1,2 +1,4 @@
 #!/bin/sh
 echo "hello"
+echo "jenkins"
+echo "Poll"
